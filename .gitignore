@@ -1,0 +1,4 @@
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+.DS_Store
